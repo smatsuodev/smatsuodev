@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [X(Twitter) - @eringi_k3](https://twitter.com/eringi_k3)
+- 📫 How to reach me: [X(Twitter) - @smatsuodev](https://twitter.com/smatsuodev)
 <br>
 
 
