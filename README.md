@@ -10,7 +10,7 @@
 - 🧑‍💻 I'm an android engineer.
 - 📫 How to reach me:
   - [X(Twitter) - @smatsuodev](https://twitter.com/smatsuodev)
-  - email: work@smatsuo.dev
+  - work@smatsuo.dev
 <br>
 
 
