@@ -1,22 +1,19 @@
 [
     {
-        "type": "rainbow",
+        "type": "normal",
         "fileName": "profile-3d.svg",
         "backgroundColor": "none",
         "foregroundColor": "#c9d1d9",
-        "strongColor": "#58a6ff",
+        "strongColor": "#52b788",
         "weakColor": "#6e7681",
-        "radarColor": "#58a6ff",
+        "radarColor": "#40916c",
         "growingAnimation": true,
-        "saturation": "60%",
-        "contribLightness": [
-            "15%",
-            "30%",
-            "40%",
-            "50%",
-            "60%"
-        ],
-        "duration": "6s",
-        "hueRatio": -5
+        "contribColors": [
+            "#1b4332",
+            "#2d6a4f",
+            "#40916c",
+            "#52b788",
+            "#95d5b2"
+        ]
     }
 ]
